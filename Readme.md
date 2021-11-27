@@ -1,4 +1,4 @@
-# Adv Auto Filter Bot 
+# Rexie  Auto Filter Bot 
 
 
   * -> `/delall`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To delete all connections of a group and deletes all its file from DB
@@ -31,7 +31,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/disneyteam77/Auto-Filter-Bot-V2/tree/patch-1">
+<a href="https://heroku.com/deploy?template=https://github.com/disneyteam77/Rexie-Auto-Fiter/tree/patch-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -40,7 +40,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/disneyteam77/Auto-Filter-Bot-V2/tree/blob/patch-1 
+git clone https://github.com/disneyteam77/Rexie-Auto-Filter/tree/blob/patch-1 
 cd Adv-Auto-Filter-Bot-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
